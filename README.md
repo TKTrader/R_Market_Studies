@@ -1,5 +1,5 @@
 # Market Studies
-Some examples of charts and programs that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
+Some examples of charts and programs that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL, ZN) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
 
 As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption.  Nor comprehensive
 
@@ -17,6 +17,8 @@ ZW  - Wheat
 ZS - Soybeans
 
 ZC - Corn
+
+ZN - 10 year notes
 
 ON - Overnight
 
