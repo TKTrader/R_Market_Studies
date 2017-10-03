@@ -3,6 +3,12 @@ Some examples of charts and programs that I created in R for the purpose of anal
 
 As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption.  Nor comprehensive
 
+Process:  All tick data comes from Investor RT and DTNMA historical data service
+
+imported into csv file
+
+Data cleaning:  WASDE report days typically removed as price action outliers, holidays removed
+
 Key:
 CL - Oil
 
