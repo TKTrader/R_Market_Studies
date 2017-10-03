@@ -1,7 +1,7 @@
 # Market Studies
-Some examples of charts that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
+Some examples of charts and programs that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
 
-As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption.  
+As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption.  Nor comprehensive
 
 Key:
 CL - Oil
@@ -30,6 +30,8 @@ MFE - Maximum Favorable Excursion (typically in ticks, except for CL range studi
 
 MAE - Maximum Adverse Excursion
 
+Y - yesterday
+
 zigzag - zigzag function; value for each instrument determined using 2 tick renkos and statistical analysis of average zigzag based on historical intraday distributions in relation to timeframe
 
 HVN - High volume node  - high volume auction area, price attractor/magnet
@@ -49,4 +51,6 @@ Given a break in the IBH and failure, how often statistically will price action 
 Will price typically revert within range by end of day?  
 
 Does a higher RSI > 70 increase expectation for followthrough and further range extension?
+
+Given an RTH gap above and OAOR, what is the expectation for mean reversion to enter previous day's RTH range? What is the expectation for range extension below if price action does enter YRTH?
 
