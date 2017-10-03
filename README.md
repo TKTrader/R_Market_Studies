@@ -36,7 +36,7 @@ HVN - High volume node  - high volume auction area, price attractor/magnet
 
 LVN - low volume node  - low volume price area, typically repellent or sign that price discovery is taking place as we move to a new auction zone (new HVN node)
 
-Example of question for analysis in conjunction with chartsand volume profiles:
+Example of question for analysis in conjunction with charts and volume profiles:
 
 For wheat (ZW) on an intraday basis, what is the expectation for price action follow through (momentum or mean reversion) based on a break of the IBH?  
 
