@@ -1,7 +1,7 @@
 # Market Studies
-Some examples of charts and programs that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL, ZN) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
+These folders include some examples of charts and programs that I created in R for the purpose of analyzing different instruments (mainly ZC, ZW, ZS, CL, ZN) with regard to day types, high and low breaks; these charts were created for context and context alone in my own intraday/day trading. 
 
-As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption.  Nor comprehensive
+As the programs were written for my personal use to answer or examine specific questions on daily price action, they are not "properly" commented or formatted for industry/3rd party consumption. They are all created before I had a "formal" education; as such, they include no knowledge of OOP, encapsulation, inheritance, and other software concepts.
 
 Process:  All tick data comes from Investor RT and DTNMA historical data service
 
